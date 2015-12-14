@@ -1,0 +1,10 @@
+{
+  "name": "GacetaIPN",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
